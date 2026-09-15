@@ -1,31 +1,21 @@
-# ☕ Day 01 — Java Fundamentals
-
-## 📌 Objective
-
+☕ Day 01 — Java Fundamentals
+📌 Objective
 Understand the basic foundation of Java and learn how a Java program is compiled and executed.
 
----
-
-## 🧠 Concepts
-
-- What is Java?
-- Features of Java
-- JDK
-- JRE
-- JVM
-- Java Bytecode
-- Java Compilation
-- Java Program Execution
-- `main()` method
-- `System.out.println()`
-- Comments
-- Basic Java naming conventions
-
----
-
-## 🔄 Java Execution Flow
-
-```text
+🧠 Concepts
+What is Java?
+Features of Java
+JDK
+JRE
+JVM
+Java Bytecode
+Java Compilation
+Java Program Execution
+main() method
+System.out.println()
+Comments
+Basic Java naming conventions
+🔄 Java Execution Flow
 HelloJava.java
       ↓
    javac
