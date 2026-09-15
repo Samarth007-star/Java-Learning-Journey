@@ -8,7 +8,7 @@
 
 ## 📌 Today's Goal
 
-Before writing complex Java programs, it is important to understand what happens behind the scenes when we write and run Java code.
+Before writing complex Java programs, it is important to understand what happens behind the scenes when we write and run Java.
 
 By the end of Day 01, I should be able to explain:
 
