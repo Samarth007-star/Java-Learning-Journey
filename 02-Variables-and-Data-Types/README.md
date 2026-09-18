@@ -30,7 +30,7 @@ Today, we learn how Java programs **store and manage information using variables
 ---
 
 
-
+# 🧠 1. What is a Variable?
 A **variable** is a named location used by a program to store a value.
 
 For example, an employee management system may need to store:
