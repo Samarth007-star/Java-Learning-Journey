@@ -3,9 +3,7 @@
 > Learning how Java stores, represents, and works with different types of data.
 
 ---
-
-
-
+## 🎯 Objective
 In Day 01, we learned the basic structure of Java and how a Java program is compiled and executed.
 
 Today, we learn how Java programs **store and manage information using variables and data types**.
