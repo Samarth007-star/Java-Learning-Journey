@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Objective
+
 
 In Day 01, we learned the basic structure of Java and how a Java program is compiled and executed.
 
