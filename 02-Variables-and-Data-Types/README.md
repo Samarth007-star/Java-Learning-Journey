@@ -1,5 +1,5 @@
  
-
+# ☕ Day 02 — Variables & Data Types
 > Learning how Java stores, represents, and works with different types of data.
 
 ---
