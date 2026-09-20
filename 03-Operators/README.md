@@ -1,6 +1,3 @@
-# ⚡ Day 03 — Operators in Java
-> Learning how Java performs calculations, comparisons, logical decisions, assignments, and other operations on data.
-
 
 ---
 
@@ -12,12 +9,12 @@ Today, we will learn how to **work with those values** using Java operators.
 
 For example:
 
-```java
+
 int salary = 50000;
 int bonus = 5000;
 
 int totalSalary = salary + bonus;
-```
+
 
 Here, the `+` operator performs an addition.
 
@@ -45,40 +42,34 @@ By the end of Day 03, I will understand:
 An **operator** is a symbol that tells Java to perform an operation on one or more values.
 
 Example:
-
-```java
-int result = 10 + 20;
-```
-
 Here:
 
-```text
+
 10       → Operand
 +        → Operator
 20       → Operand
-```
+
 
 The result is:
 
-```text
+
 30
-```
+
 
 ### Simple Idea
 
-```text
+
 Operand + Operator + Operand
         ↓
       Result
-```
 
----
+
 
 # 📚 2. Types of Operators in Java
 
 Java provides several categories of operators:
 
-```text
+
 Operators
 │
 ├── Arithmetic
@@ -89,11 +80,11 @@ Operators
 ├── Unary
 ├── Ternary
 └── Bitwise / Shift
-```
+
 
 In this module, we will focus mainly on the operators used in everyday Java application development.
 
----
+
 
 # ➕ 3. Arithmetic Operators
 
@@ -111,58 +102,57 @@ Arithmetic operators are used to perform mathematical calculations.
 
 ## ➕ Addition
 
-```java
+
 int a = 10;
 int b = 20;
 
 int result = a + b;
 
 System.out.println(result);
-```
+
 
 Output:
 
-```text
-30
-```
 
----
+30
+
+
+
 
 ## ➖ Subtraction
 
-```java
 int salary = 50000;
 int deduction = 5000;
 
 int remainingSalary = salary - deduction;
 
 System.out.println(remainingSalary);
-```
+
 
 Output:
 
-```text
-45000
-```
 
----
+45000
+
+
+
 
 ## ✖️ Multiplication
 
-```java
+
 int price = 100;
 int quantity = 5;
 
 int total = price * quantity;
 
 System.out.println(total);
-```
+
 
 Output:
 
-```text
+
 500
-```
+
 
 ---
 
