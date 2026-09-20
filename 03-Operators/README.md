@@ -1,4 +1,5 @@
-
+# ⚡ Day 03 — Operators in Java
+> Learning how Java performs calculations, comparisons, logical decisions, assignments, and other operations on data.
 
 
 ---
