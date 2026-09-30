@@ -1,4 +1,4 @@
-# ☕ Day 01 — Java Fundamentals
+# ☕
 
 <p align="center">
   <b>Starting my Java journey from the fundamentals — understanding not just how to write Java, but how Java actually works.</b>
